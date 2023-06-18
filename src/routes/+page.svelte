@@ -30,7 +30,7 @@
               class="inline-block flex-none px-4 py-3 border-2 rounded-lg font-medium border-black bg-black text-white">Create
               account here</button>
           </div>
-          <p class="font-medium">© 2022 Company</p>
+          <p class="font-medium">© 2023 Payme Inc. All rights reserved</p>
         </div>
   
         <!-- Login -->
