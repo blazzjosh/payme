@@ -22,18 +22,7 @@ const config = {
           "warning": "#FFA500",
           "error": "#F04349"
         },
-        
-        // normal: {
-        //   "primary": "#FD0B1B",
-        //   "secondary": "#FFE8E8",
-        //   "accent": "#FFFFFF",
-        //   "neutral": "#2a323c",
-        //   "base-100": "#1d232a",
-        //   "info": "#3abff8",
-        //   "success": "#36d399",
-        //   "warning": "#fbbd23",
-        //   "error": "#FD0B1B"
-        // },
+      
         protanopia:{
           "primary": "#3627e1",    // Adjusted primary color
           "secondary": "#d926a9",

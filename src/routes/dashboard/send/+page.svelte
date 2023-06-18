@@ -1,3 +1,9 @@
+<script lang="ts">
+let sending = false
+let sent = false
+</script>
+
+
 <!-- component -->
 <div class="flex h-screen w-full items-center justify-center">
     <div class="mx-auto box-border border bg-white p-4">
@@ -9,10 +15,10 @@
         <div class="font-semibold">How much would you like to send?</div>
         <div><input class="mt-1 w-full rounded-[4px] border border-[#A0ABBB] p-2" value="100.00" type="text" placeholder="100.00" /></div>
         <div class="flex justify-between">
-          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-[#E7EAEE] p-3 text-[#191D23]">$10.00</div>
-          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-[#E7EAEE] p-3 text-[#191D23]">$50.00</div>
-          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-green-700 p-3 text-[#191D23]">$100.00</div>
-          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-[#E7EAEE] p-3 text-[#191D23]">$200.00</div>
+          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-[#E7EAEE] p-3 text-[#191D23]">₦100.00</div>
+          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-[#E7EAEE] p-3 text-[#191D23]">₦500.00</div>
+          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-green-700 p-3 text-[#191D23]">₦100.00</div>
+          <div class="mt-[14px] cursor-pointer truncate rounded-[4px] border border-[#E7EAEE] p-3 text-[#191D23]">₦200.00</div>
         </div>
       </div>
   
@@ -58,7 +64,7 @@
       </div>
   
       <div class="mt-6">
-        <div class="w-full cursor-pointer rounded-[4px] bg-green-700 px-3 py-[6px] text-center font-semibold text-white">Send $100.00</div>
+        <div class="w-full cursor-pointer rounded-[4px] bg-green-700 px-3 py-[6px] text-center font-semibold text-white">Send ₦ 1000.00</div>
       </div>
     </div>
   </div>

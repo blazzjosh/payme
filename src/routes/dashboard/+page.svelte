@@ -159,7 +159,6 @@
                             <h2 class="text-gray-800 font-bold tracking-wider">₦ 501.10</h2>
                         </div>
                     </div>
-                    <canvas id="myChart"></canvas>
                 </div>
                 <div class="col-span-3 bg-white p-6 rounded-xl border border-neutral flex flex-col space-y-6">
                     <div class="flex justify-between items-center">
@@ -170,7 +169,7 @@
                     <ul class="divide-y-2 divide-gray-100 overflow-x-auto w-full">
                         <li class="py-3 flex justify-between text-sm text-gray-500 font-semibold">
                             <p class="px-4 font-semibold">Today</p>
-                            <p class="px-4 text-gray-600">McDonald</p>
+                            <p class="px-4 text-gray-600">Fidelity</p>
                             <p class="px-4 tracking-wider">Cash</p>
                             <p class="px-4 text-blue-600">Food</p>
                             <p class="md:text-base text-gray-800 flex items-center gap-2">
